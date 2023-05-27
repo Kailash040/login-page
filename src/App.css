@@ -1,44 +1,47 @@
-.heading_container{
-    margin-top: 2rem;
+.heading_container {
+  margin-top: 2rem;
 }
-.heading_container h3{
-    font-size: 30px;
+.heading_container h3 {
+  font-size: 30px;
 }
-.heading_container p{
-    color: grey;
+.heading_container p {
+  color: grey;
 }
-.img_cotnaier_img{
-    width: 200px;
+.img_cotnaier_img {
+  width: 200px;
 }
-.social_container p{
-    color: grey;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+.social_container p {
+  color: grey;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
-.Social_network_icon button{
-border: none;
-border: none;
-    background: yellow;
-    background: blue;
-    padding: 5px 40px;
-    border-radius: 5px;
+.Social_network_icon button {
+  border: none;
+  background: blue;
+  padding: 5px 40px;
+  border-radius: 5px;
 }
-.Social_network_icon img{
-    width: 40px;
+.Social_network_icon {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
 }
-.log_with_email_container p{
-    margin-top: 1rem;
+.Social_network_icon img {
+  width: 40px;
 }
-.log_with_email_container{
-    color: grey;
-    margin-top: 1rem;
+.log_with_email_container p {
+  margin-top: 1rem;
+}
+.log_with_email_container {
+  color: grey;
+  margin-top: 1rem;
 }
 
-    .log_with_email_container button{
-        border: none;
-    color: white;
-    background: #3986fa;
-    padding: 10px 100px;
-    border-radius: 10px;
-    margin-top: 1rem;
-    }
+.log_with_email_container button {
+  border: none;
+  color: white;
+  background: #3986fa;
+  padding: 10px 100px;
+  border-radius: 10px;
+  margin-top: 1rem;
+}
